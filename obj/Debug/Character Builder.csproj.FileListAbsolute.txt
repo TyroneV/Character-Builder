@@ -1,0 +1,51 @@
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Character Builder.exe.config
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Character Builder.exe
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Character Builder.pdb
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character Builder.csprojAssemblyReference.cache
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character_Builder.Properties.Resources.resources
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character Builder.csproj.GenerateResource.cache
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character Builder.csproj.CoreCompileInputs.cache
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character Builder.exe
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character Builder.pdb
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character_Builder.Resource.resources
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character Builder.csproj.CopyComplete
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character_Builder.Forms.CustomInput.resources
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Buffers.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Memory.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Text.Json.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.ValueTuple.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Buffers.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Memory.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Text.Json.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\System.ValueTuple.xml
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character_Builder.MainForm.resources
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZeroR\source\repos\Character Builder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character_Builder.Forms.DataForm.resources
+C:\Users\ZeroR\source\repos\Character Builder\obj\Debug\Character_Builder.Forms.JobsDataForm.resources
